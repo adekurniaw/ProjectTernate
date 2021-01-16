@@ -1,0 +1,51 @@
+html, body{
+    font-family: pacifico;
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img{
+    width: 200px;
+    margin-top: 50px;
+}
+
+.line{
+    font-size: 48px;
+}
+
+.satu{
+    color: white;
+    
+}
+.dua{
+    color: #FCB371;
+    margin-bottom: 30px;
+}
+
+button{
+    width: 156px;
+    height: 46px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.nofill{
+    background-color:transparent;
+    border: 2px solid #FCB371;
+    color: #FCB371;
+}
+
+.filled{
+    background-color: #FCB371;
+    color: white;
+    border: 2px solid #FCB371;
+}
+a{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
